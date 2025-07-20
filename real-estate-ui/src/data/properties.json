@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Apartment",
+    "location": "Mumbai",
+    "price": 12000000,
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "950 sqft",
+    "images": ["/img1.jpg", "/img2.jpg"],
+    "amenities": ["Pool", "Gym"]
+  },
+  {
+    "id": 2,
+    "title": "Cozy Villa",
+    "location": "Pune",
+    "price": 9500000,
+    "type": "Villa",
+    "bhk": "3BHK",
+    "area": "1450 sqft",
+    "images": ["/img3.jpg", "/img4.jpg"],
+    "amenities": ["Garden", "Garage"]
+  },
+  {
+    "id": 3,
+    "title": "Modern Plot",
+    "location": "Bangalore",
+    "price": 7000000,
+    "type": "Plot",
+    "bhk": "",
+    "area": "1800 sqft",
+    "images": ["/img5.jpg"],
+    "amenities": ["NA"]
+  },
+  {
+    "id": 4,
+    "title": "Beachfront Villa",
+    "location": "Goa",
+    "price": 25000000,
+    "type": "Villa",
+    "bhk": "4BHK",
+    "area": "2500 sqft",
+    "images": ["/img6.jpg"],
+    "amenities": ["Pool", "Beach Access"]
+  },
+  {
+    "id": 5,
+    "title": "Compact Apartment",
+    "location": "Delhi",
+    "price": 4500000,
+    "type": "Apartment",
+    "bhk": "1BHK",
+    "area": "600 sqft",
+    "images": ["/img7.jpg"],
+    "amenities": ["Parking"]
+  },
+  {
+    "id": 6,
+    "title": "Suburban Plot",
+    "location": "Chennai",
+    "price": 5000000,
+    "type": "Plot",
+    "bhk": "",
+    "area": "1600 sqft",
+    "images": ["/img8.jpg"],
+    "amenities": []
+  },
+  {
+    "id": 7,
+    "title": "Executive Apartment",
+    "location": "Hyderabad",
+    "price": 11000000,
+    "type": "Apartment",
+    "bhk": "3BHK",
+    "area": "1200 sqft",
+    "images": ["/img9.jpg"],
+    "amenities": ["Gym", "Security"]
+  },
+  {
+    "id": 8,
+    "title": "Downtown Villa",
+    "location": "Ahmedabad",
+    "price": 10500000,
+    "type": "Villa",
+    "bhk": "3BHK",
+    "area": "1350 sqft",
+    "images": ["/img10.jpg"],
+    "amenities": ["Parking", "Garden"]
+  },
+  {
+    "id": 9,
+    "title": "Lakeview Apartment",
+    "location": "Udaipur",
+    "price": 8500000,
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "980 sqft",
+    "images": ["/img11.jpg"],
+    "amenities": ["Lake View"]
+  },
+  {
+    "id": 10,
+    "title": "Central Plot",
+    "location": "Nagpur",
+    "price": 6200000,
+    "type": "Plot",
+    "bhk": "",
+    "area": "1500 sqft",
+    "images": ["/img12.jpg"],
+    "amenities": []
+  },
+  {
+    "id": 11,
+    "title": "Premium Villa",
+    "location": "Jaipur",
+    "price": 12800000,
+    "type": "Villa",
+    "bhk": "4BHK",
+    "area": "2200 sqft",
+    "images": ["/img13.jpg"],
+    "amenities": ["Terrace", "Private Parking"]
+  },
+  {
+    "id": 12,
+    "title": "Smart Apartment",
+    "location": "Kolkata",
+    "price": 7800000,
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "890 sqft",
+    "images": ["/img14.jpg"],
+    "amenities": ["Smart Home", "Gym"]
+  }
+]
